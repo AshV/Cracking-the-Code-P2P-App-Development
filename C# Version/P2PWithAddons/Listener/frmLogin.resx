@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" targetNamespace="" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <data name="ListenIcon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>79, 1</value>
+  </data>
+  <data name="ListenIcon.Icon" mimetype="text/microsoft-urt/binary-serialized/base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMjQxMS4wLCBD
+        dWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0u
+        RHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5TaXplAgAA
+        AAIAAAAJAwAAAAX/////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdodAAACAgCAAAA
+        IAAAACAAAAAPAwAAAP4CAAACAAABAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAA
+        gAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8A
+        AP8AAAD//wD/AAAA/wD/AP//AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAkAAAAAAAAJAQ
+        AAAAAAAAAJAQAAAAAACQEAAAAAAAAACQEAAAAAAAkBAAAAAAAAAAkBAAAAAAAJARAQAAAAAAAJARAQAA
+        AACQEREAAAAAAACQEREAABkZGRkZGRkZGRkZGRkZGRkAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMz
+        MzMzM4iAkIiIiIiIiIiAkIiIiIi4gJC7iIu7iIu7gJC7uIi7iICQiIiIiIiIiICQiIiIiHdwkHcBB3d3
+        d3dwkHcBB3cAAJAAAQAAAAAAAJAAAQAAAACQAAEAAAAAAACQAAEAAAAAkAABAAAAAAAAkAABAAAAAJAA
+        AQAAAAAAAJAAAQAAAACQAAEAAAAAAACQAAEAAAAAkAABAAAAAAAAkAABAAAAAJAAAQAAAAAAAJAAAQAA
+        AACQEAEAAAAAAACQEAEAAAAAAJEBAAAAAAAAAJEBAAAACzAJEQAAAAAACzAJEQAAAAAAAJEAAAAAAAAA
+        AJAQAAAAAAAJAAAAAAAAAAAJAAAAAAAACQAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAACzAAAA
+        AAAAAACzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADj//j/
+        4f/4f+H/+H/h//h/4L/4L+Af+AfgH/gHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMf+MfjH/jH
+        4x/4x+Mf+MfjH/jH4x/4x+Ef+EfgH/gH4B/4B+Qf+Qf+H/+H/x//x/8f/8f/H//H/z//z///////////
+        /////ws=
+</value>
+  </data>
+  <data name="contextMenu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 0</value>
+  </data>
+  <data name="$this.TrayHeight" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="$this.Name">
+    <value>frmLogin</value>
+  </data>
+  <data name="$this.Icon" mimetype="text/microsoft-urt/binary-serialized/base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFRTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj0xLjAuMjQxMS4wLCBD
+        dWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABNTeXN0ZW0u
+        RHJhd2luZy5JY29uAgAAAAhJY29uRGF0YQhJY29uU2l6ZQcEAhNTeXN0ZW0uRHJhd2luZy5TaXplAgAA
+        AAIAAAAJAwAAAAX/////E1N5c3RlbS5EcmF3aW5nLlNpemUCAAAABXdpZHRoBmhlaWdodAAACAgCAAAA
+        IAAAACAAAAAPAwAAAP4CAAACAAABAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAA
+        gAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAgICAAMDAwAAAAP8A
+        AP8AAAD//wD/AAAA/wD/AP//AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAkAAAAAAAAJAQ
+        AAAAAAAAAJAQAAAAAACQEAAAAAAAAACQEAAAAAAAkBAAAAAAAAAAkBAAAAAAAJARAQAAAAAAAJARAQAA
+        AACQEREAAAAAAACQEREAABkZGRkZGRkZGRkZGRkZGRkAAAAAAAAAAAAAAAAAAAAAMzMzMzMzMzMzMzMz
+        MzMzM4iAkIiIiIiIiIiAkIiIiIi4gJC7iIu7iIu7gJC7uIi7iICQiIiIiIiIiICQiIiIiHdwkHcBB3d3
+        d3dwkHcBB3cAAJAAAQAAAAAAAJAAAQAAAACQAAEAAAAAAACQAAEAAAAAkAABAAAAAAAAkAABAAAAAJAA
+        AQAAAAAAAJAAAQAAAACQAAEAAAAAAACQAAEAAAAAkAABAAAAAAAAkAABAAAAAJAAAQAAAAAAAJAAAQAA
+        AACQEAEAAAAAAACQEAEAAAAAAJEBAAAAAAAAAJEBAAAACzAJEQAAAAAACzAJEQAAAAAAAJEAAAAAAAAA
+        AJAQAAAAAAAJAAAAAAAAAAAJAAAAAAAACQAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAACzAAAA
+        AAAAAACzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADj//j/
+        4f/4f+H/+H/h//h/4L/4L+Af+AfgH/gHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOMf+MfjH/jH
+        4x/4x+Mf+MfjH/jH4x/4x+Ef+EfgH/gH4B/4B+Qf+Qf+H/+H/x//x/8f/8f/H//H/z//z///////////
+        /////ws=
+</value>
+  </data>
+  <resheader name="ResMimeType">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
+  </resheader>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader</value>
+  </resheader>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter</value>
+  </resheader>
+</root>

@@ -1,0 +1,43 @@
+<VisualStudioProject>
+    <CSHARP>
+        <Build>
+            <Settings ReferencePath = "D:\Visual Studio 7 Projects\P2P\Beta 2\WorkingWithXML\bin\Debug\;E:\Projects\C# Code\WorkingWithXML\bin\Debug\;E:\Projects\C# Code\WorkingWithXML\bin\Release\;D:\Visual Studio 7 Projects\P2P\WorkingWithXML\bin\Release\;D:\Visual Studio 7 Projects\P2P\WorkingWithXML\bin\Debug\;D:\Visual Studio 7 Projects\P2P\Listener\bin\Release\;E:\Projects\C# Code\P2P\WorkingWithXML\bin\Release\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "true"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+        />
+    </CSHARP>
+</VisualStudioProject>
+
